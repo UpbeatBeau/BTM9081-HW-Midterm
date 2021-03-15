@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Code Lab mid-term.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\beaum\Documents\Codelab1\mid-term\Code Lab mid-term\.idea\.idea.Code Lab mid-term\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
